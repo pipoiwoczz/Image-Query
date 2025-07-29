@@ -2,7 +2,7 @@
 
 A multimodal search engine for fashion items that allows users to find visually similar products using either images or natural language descriptions. Powered by state-of-the-art computer vision and NLP models.
 
-[![Watch the demo](https://youtu.be/pmll65e1jqk)
+[![Watch the demo](https://youtu.be/pmll65e1jqk)]
 
 
 ## Project Structure

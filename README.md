@@ -85,11 +85,13 @@ python app.py
     - Add shopping platform integration (e.g., Amazon or Zalando links)
     - Train domain-specific CLIP/BLIP models
 
-## Acknowledgments
-OpenAI CLIP
+## 🙏 Acknowledgments
 
-FAISS by Facebook AI
+This project would not be possible without the following open-source contributions and datasets:
 
-DeepFashion Dataset
+- [OpenAI CLIP](https://github.com/openai/CLIP) – for enabling multimodal (image-text) representation learning.
+- [BLIP (Bootstrapped Language Image Pretraining)](https://github.com/salesforce/BLIP) – for high-quality image captioning.
+- [FAISS (Facebook AI Similarity Search)](https://github.com/facebookresearch/faiss) – for efficient vector similarity search at scale.
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) – for easy access to state-of-the-art models and tokenizers.
+- [DeepFashion Dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) – for high-quality fashion product images and annotations.
 
-Hugging Face Transformers
